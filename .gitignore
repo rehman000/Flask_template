@@ -1,0 +1,17 @@
+# Python Virtual Enviornment:
+/[Ee]nv/
+
+# SQLite Database Instance:
+database.db
+
+# Any file that ends with the .db extension
+*.db
+
+# VSCode:
+/.vscode/
+
+# Pycache: 
+/__pycache__/
+
+# Custom Mac OS File (not needed)
+.DS_Store

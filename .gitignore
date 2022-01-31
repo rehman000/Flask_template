@@ -1,5 +1,6 @@
 # Python Virtual Enviornment:
 /[Ee]nv/
+/[Vv]env/
 
 # SQLite Database Instance:
 database.db
